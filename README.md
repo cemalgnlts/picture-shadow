@@ -1,3 +1,8 @@
+# Preview
+
+| ![](ss1.png) | ![](ss2.png) | ![](ss3.png) |
+| ------------ | ------------ | ------------ |
+
 # Introduction
 
 It helps you add appropriate shade to your images.
