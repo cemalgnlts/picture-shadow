@@ -60,9 +60,12 @@ We will add these properties to our tag, it will be `data-[option]="[value]"`.
 ```
 
 `data-scale` - Resizes the shadow.
-< 1: makes the image smaller than its size.
-1: full size.
-\> 1: makes the image larger than its size.
+
+**< 1**: makes the image smaller than its size.
+
+**1**: full size.
+
+**\> 1**: makes the image larger than its size.
 
 ```html
 <img
