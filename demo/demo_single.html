@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Static Template</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            
+            html, body {
+                width: 100%;
+                height: 100%;
+            }
+
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        </style>
+        <script src="../src-min/picture-shadow.min.js"></script>
+    </head>
+    <body>
+        <img class="picture-shadow" data-radius="30px" src="https://picsum.photos/300" />
+    </body>
+</html>
